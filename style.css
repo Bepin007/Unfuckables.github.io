@@ -1,0 +1,25 @@
+.jumbotron{
+ background-image: url(Big%20bazaar2.jpg) ;
+background-size:cover;
+background-position: 0px -100px;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+
+.img-thumbnail {
+ max-height:100%;
+}
+
+.video-fluid {
+  width: 100%;
+  height: 250px;
+}
+
+.lol{
+    width: 100%;
+    height: 100%
+    
+}
+
+/////////////linear-gradient( rgba(255,255,255,0.1) 0%,rgba(255,255,255,0.9) 100%) ,
