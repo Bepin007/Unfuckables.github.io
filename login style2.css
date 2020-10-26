@@ -56,3 +56,29 @@ body{
                       padding-top: 0px}
 
 .list li:nth-child(1){color:snow}
+
+
+/* unvisited link */
+a.lol:link {
+  color: white;
+    text-decoration: none
+
+}
+
+/* visited link */
+a.lol:visited {
+  color: white;
+     text-decoration: none
+}
+
+/* mouse over link */
+a.lol:hover {
+  color:gainsboro;
+     text-decoration: none
+}
+
+/* selected link */
+a.lol:active {
+  color:darkgrey;
+     text-decoration: none
+}
